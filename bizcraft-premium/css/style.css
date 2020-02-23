@@ -2336,6 +2336,7 @@ ul.arrow li:before {
 /* Banner area */
 
 #banner-area {
+    height: 320px;
     position: relative;
 }
 
@@ -2348,7 +2349,7 @@ ul.arrow li:before {
 
 .banner-title-content h2 {
     color: #fff;
-    font-size: 36px;
+    font-size: 32px;
 }
 
 .banner-title-content .breadcrumb {
